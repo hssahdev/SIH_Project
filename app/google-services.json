@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545881160976",
+    "firebase_url": "https://sih2020-154e1.firebaseio.com",
+    "project_id": "sih2020-154e1",
+    "storage_bucket": "sih2020-154e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545881160976:android:f83a68caab7a8b1164f995",
+        "android_client_info": {
+          "package_name": "com.xander.android.reportanalyzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545881160976-oie90o7vac9br579vrqm80pnrog2m1qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0PBR6GSwZEU4gmRnP8vjhquUHwWPGvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545881160976-oie90o7vac9br579vrqm80pnrog2m1qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
